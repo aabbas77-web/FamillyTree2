@@ -1,7 +1,7 @@
 object FormMain: TFormMain
-  Left = 184
-  Top = 118
-  Width = 673
+  Left = 186
+  Top = 119
+  Width = 569
   Height = 375
   Caption = 'Familly Tree Creator'
   Color = clBtnFace
@@ -21,7 +21,7 @@ object FormMain: TFormMain
   object Splitter1: TSplitter
     Left = 0
     Top = 29
-    Width = 657
+    Width = 553
     Height = 3
     Cursor = crVSplit
     Align = alTop
@@ -31,7 +31,7 @@ object FormMain: TFormMain
   object Splitter2: TSplitter
     Left = 0
     Top = 125
-    Width = 657
+    Width = 553
     Height = 3
     Cursor = crVSplit
     Align = alTop
@@ -41,7 +41,7 @@ object FormMain: TFormMain
   object StatusBar: TStatusBar
     Left = 0
     Top = 297
-    Width = 657
+    Width = 553
     Height = 19
     Panels = <>
     SimplePanel = False
@@ -49,7 +49,7 @@ object FormMain: TFormMain
   object TreeView: TTreeView
     Left = 0
     Top = 32
-    Width = 657
+    Width = 553
     Height = 93
     Align = alTop
     Images = ImageList
@@ -60,7 +60,7 @@ object FormMain: TFormMain
   object PanelDisplay: TPanel
     Left = 0
     Top = 128
-    Width = 657
+    Width = 553
     Height = 169
     Align = alClient
     BevelInner = bvLowered
@@ -102,7 +102,7 @@ object FormMain: TFormMain
   object Panel1: TPanel
     Left = 0
     Top = 0
-    Width = 657
+    Width = 553
     Height = 29
     Align = alTop
     TabOrder = 5
